@@ -12,7 +12,7 @@ import json
 from bs4 import BeautifulSoup
 
 # Paquete para hacer descarga de archivos
-import wget
+#import wget
 
 # Paquete para poder verificar si existe carpetas o archivos
 import pathlib
